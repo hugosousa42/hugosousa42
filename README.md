@@ -33,6 +33,5 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugosousa42&show_icons=true&theme=radical&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugosousa42&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugosousa42&layout=compact&theme=radical)
